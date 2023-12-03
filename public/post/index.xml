@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apna.guide</title>
+    <link>https://apna.guide/post/</link>
+    <description>Recent content on Apna.guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://apna.guide/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why not to chose NBFC for Auto Loan ?</title>
+      <link>https://apna.guide/post/2023/sep/auto-loan/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://apna.guide/post/2023/sep/auto-loan/</guid>
+      <description>- Reducing interest rate ? Yes and no. They will tell interest percentage as per fixed interest rate when comparing with banks reducing interest rate.
+Its not done yet. In actual, they will form EMI, just like in reducing interest rate such that interest is not equally distributed over the tenure.
+To give an example - if they say their interest rate is 9% (fixed) as compared to banks which will charge 11-12% (reducing).</description>
+    </item>
+    
+    <item>
+      <title>Why not to chose NBFC for Home Loan ?</title>
+      <link>https://apna.guide/post/2023/sep/home-loan/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://apna.guide/post/2023/sep/home-loan/</guid>
+      <description>- Delay in reducing interest rate They are usually pro-active in increasing the interest rate with repo-rate. But not so active in decreasing the interest rate when repo rate decreases.</description>
+    </item>
+    
+  </channel>
+</rss>
